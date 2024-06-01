@@ -10,6 +10,13 @@ Masala Mingle is a food ordering website built using Vite and React. It aims to 
 5. Payment Integration: Integrate with payment gateways for secure transactions.
 6. Order Tracking: Allow users to track their orders in real-time.
 
+## Demo Screenshots
+<img width="1429" alt="Screenshot 2024-06-01 at 12 07 40 PM" src="https://github.com/pg-29/Masala-Mingle/assets/122177879/20ec6214-56df-4ae7-988b-f58f9ac2f0db">
+<img width="1429" alt="Screenshot 2024-06-01 at 12 08 44 PM" src="https://github.com/pg-29/Masala-Mingle/assets/122177879/222bc3e9-ce7b-4e8f-9338-e84d3a1aead8">
+<img width="1429" alt="Screenshot 2024-06-01 at 12 08 00 PM" src="https://github.com/pg-29/Masala-Mingle/assets/122177879/0aac284c-dbe8-4163-bf50-f5eecc4d73de">
+<img width="1429" alt="Screenshot 2024-06-01 at 12 08 08 PM" src="https://github.com/pg-29/Masala-Mingle/assets/122177879/e9529aac-fa5a-4d89-b167-6b507d196874">
+
+
 ## Technologies Used
 HTML, CSS, JavaScript
 
