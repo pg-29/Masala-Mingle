@@ -30,6 +30,11 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
+## Install node modules
+```bash
+npm install
+```
+
 ### Run Locally
 
 To run **Masala-Mingle** locally, run this command on your git bash:
